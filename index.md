@@ -3,9 +3,9 @@ title: CrazyTown
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/NestorMockupx.jpg
+hero_image: attachments/NestorMockupx.png
 hero_title: Grupo da Crazy Town
-hero_subtitle: Carrinhos de Madeira
+hero_subtitle: Grupo da Eva, da Leonor e do Ítalo
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
