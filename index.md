@@ -61,7 +61,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <img src="produtos/_Leonor/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Leonor</p>
-  </a>  <a class="gallery-card" href="produtos/_Ítalo/">
+  </a>  
+  <a class="gallery-card" href="produtos/_Ítalo/">
     <img src="produtos/_Ítalo/attachments/crazytree.png" alt="" />
     <h3>Crazy Tree</h3>
     <p>Ítalo</p>
