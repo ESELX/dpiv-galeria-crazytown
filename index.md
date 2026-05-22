@@ -55,16 +55,16 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <a class="gallery-card" href="produtos/_Eva/">
     <img src="produtos/_Eva/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Eva</p>
   </a>
   <a class="gallery-card" href="produtos/_Leonor/">
     <img src="produtos/_Leonor/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <p>Leonor</p>
   </a>  <a class="gallery-card" href="produtos/_Ítalo/">
-    <img src="produtos/_Ítalo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <img src="produtos/_Ítalo/attachments/crazytree.png" alt="" />
+    <h3>Crazy Tree</h3>
+    <p>Ítalo</p>
   </a> 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
