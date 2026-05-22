@@ -30,7 +30,7 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
+![](dpiv-galeria-crazytown/attachments/placeholder.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
@@ -52,12 +52,20 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/_Eva/">
+    <img src="produtos/_Eva/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
-
+  <a class="gallery-card" href="produtos/_Leonor/">
+    <img src="produtos/_Leonor/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Nome do Aluno</p>
+  </a>  <a class="gallery-card" href="produtos/_Ítalo/">
+    <img src="produtos/_Ítalo/attachments/hero.jpg" alt="" />
+    <h3>Nome do Produto</h3>
+    <p>Nome do Aluno</p>
+  </a> 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>

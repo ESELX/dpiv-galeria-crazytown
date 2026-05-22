@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapi
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![Objeto 1](attachments/placeholder.png)
+![Objeto 1](dpiv-galeria-crazytown/attachments/placeholder.png)
 
 - **Objeto 1** — origem / autoria / razão da escolha
 - **Objeto 2** — ...
@@ -47,5 +47,5 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/placeholder.png)
+![Moodboard](dpiv-galeria-crazytown/attachments/placeholder.png)
 
