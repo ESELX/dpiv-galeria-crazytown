@@ -52,18 +52,18 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_Eva/">
-    <img src="produtos/_Eva/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/Eva/">
+    <img src="produtos/Eva/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Eva</p>
   </a>
-  <a class="gallery-card" href="produtos/_Leonor/">
-    <img src="produtos/_Leonor/attachments/hero.jpg" alt="" />
+  <a class="gallery-card" href="produtos/Leonor/">
+    <img src="produtos/Leonor/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Leonor</p>
   </a>  
-  <a class="gallery-card" href="produtos/_Ítalo/">
-    <img src="produtos/_Ítalo/attachments/crazytree.png" alt="" />
+  <a class="gallery-card" href="produtos/Ítalo/">
+    <img src="produtos/Ítalo/attachments/crazytree.png" alt="" />
     <h3>Crazy Tree</h3>
     <p>Ítalo</p>
   </a> 
