@@ -3,8 +3,8 @@ title: CrazyTown
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: Pó Pó
+hero_image: attachments/NestorMockupx.jpg
+hero_title: Grupo da Crazy Town
 hero_subtitle: Carrinhos de Madeira
 hero_height: 100vh
 hero_overlay: 0.3
@@ -38,7 +38,7 @@ group_number: ""
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
 [Ver contexto completo →](contexto.md)
-
+![](NestorMockupx.png)
 ---
 
 ## Galeria de Produtos
