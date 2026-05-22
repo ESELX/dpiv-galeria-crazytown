@@ -1,20 +1,20 @@
 ---
-title: Nome do Produto
+title: Crazy Tree
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/NestorMockupx.jpg
+hero_image: attachments/crazytree.png
 hero_title: Crazy Tree
 hero_subtitle: Ítalo · 2025-26
 hero_height: 80vh
-hero_overlay: 0.25
+hero_overlay: -3.75
 hero_align: center
 published: true
 student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Crazy Tree
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -31,7 +31,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 Ideia central do produto. O que é, para quem, porquê.
 
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/Crazytreemood.png)
 
 ## Enquadramento
 
@@ -52,7 +52,7 @@ Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 Imagens-chave que sintetizam o produto final.
 
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/crazytree.png)
 ![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
 
 ---
