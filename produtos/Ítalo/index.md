@@ -61,4 +61,4 @@ Imagens-chave que sintetizam o produto final.
 
 O percurso completo de iterações, modelos e pesquisa está em [processo.md](dpiv-galeria-crazytown/produtos/Ítalo/processo.md), organizado do **mais recente** para o **mais antigo**.
 
-[Ver processo completo →](dpiv-galeria-crazytown/produtos/Ítalo/processo.md)
+[Ver processo completo →](processo.md)
