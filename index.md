@@ -54,7 +54,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/Eva/">
     <img src="produtos/Eva/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Crazy Car</h3>
     <p>Eva</p>
   </a>
   <a class="gallery-card" href="produtos/Leonor/">

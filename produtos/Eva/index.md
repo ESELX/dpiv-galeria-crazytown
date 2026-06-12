@@ -1,20 +1,20 @@
 ---
-title: Nome do Produto
+title: Crazy Car
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/NestorMockupx.jpg
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_title: Crazy Car
+hero_subtitle: Eva Sousa · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Eva Sousa
+student_number: "2024270"
 ---
 
-# Nome do Produto
+# Crazy Car 
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,14 +22,12 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Um carrinho que as próprias crianças conseguem montar e desmontar o quanto quiserem para brincar.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+Este produto é um pule que quando montado forma um carrinho de brincar. Perfeito para crianças entre os 7-10 anos de modo a promover o desenvolvimento motor e cognitivo. Este brinquedo pode ser usado de forma individual ou em conjunto com outros brinquedos (ex: crazy tree, crazy house, bonecos, etc.).
 
 ![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
 
@@ -39,14 +37,14 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Briquedo feito com madeira de pinho para ser cortado em CNC.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: [<!-- embed Fusion ou link a360.co -->](https://a360.co/4o7ojvM)
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+Um carrinho puzzle de montagem simples e fácil para crianças entre os 7-10 anos montarem e brincarem. Este brinquedo é uma ótima opção para crianças pequenas por conta do tamanho das peças não muito pequenas e pelas suas formas arredondadas tornando a brincadeira segura.
 
 ## Apresentação
 
