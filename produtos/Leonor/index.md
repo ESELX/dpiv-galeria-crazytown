@@ -20,16 +20,16 @@ student_number: "2024270"
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+-->![](produtos/Leonor/attachments/hero.jpg)
+> Casa de bonecas, pensada para ser fácil de montar, com linhas orgânicas no formato de frutas.
 
-> Frase-conceito (uma linha): qual é a proposta?
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+Quis criar uma casa em formato de fruta, pois lembrei-me da paixão de muitas crianças com a série da Moranguinho e como uma casa em formato de fruta parece tão mais apelativa do que qualquer outra casa. Após explorar várias frutas escolhi duas principais, com a possibilidade de futuramente fazer ainda mais frutas, assim cria-se a oportunidade de juntar várias frutas alimentando a imaginação das crianças. Para além disso, devido ao tamanho e o tema, cria a possibelidade de se juntar aos restantes brinquedos e criar uma "Crazy town".
 
 ![](dpiv-galeria-crazytown/produtos/Leonor/attachments/placeholder.png)
 
@@ -46,16 +46,14 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+Casa de bonecas, para crianças entre 7-10 anos, pensada para estimular a criatividade por ser mais fantasioso e algo que estimula o pensamento e imaginação. Não contém peças pequenas e maioritariamente cantos arredondados, e é feita para poder ser montada e desmontada de várias formas com a possibilidade de juntar peças de outras casas.
 
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/placeholder.png)
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/placeholder.png)
-
----
+![](mockupcrazyhouse.png)
+![](montagem1.png)
+![](montagem2.png)![](montagem3.png)---
 
 ## Processo
 

@@ -64,10 +64,9 @@ exploração de variantes.
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/placeholder.png)
-
+Inventário de precedentes, brinquedos análogos, referências históricas.![339](referênciadecasa2.jpg)
+![](referência.png)
+![334](referenciadecasa.jpg)
 ## 9. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).

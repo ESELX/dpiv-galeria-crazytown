@@ -59,7 +59,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   </a>
   <a class="gallery-card" href="produtos/Leonor/">
     <img src="produtos/Leonor/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
+    <h3>Crazy House</h3>
     <p>Leonor</p>
   </a>  
   <a class="gallery-card" href="produtos/Ítalo/">

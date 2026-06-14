@@ -27,7 +27,7 @@ student_number: "2024270"
 
 ## Conceito
 
-Este produto é um pule que quando montado forma um carrinho de brincar. Perfeito para crianças entre os 7-10 anos de modo a promover o desenvolvimento motor e cognitivo. Este brinquedo pode ser usado de forma individual ou em conjunto com outros brinquedos (ex: crazy tree, crazy house, bonecos, etc.).
+Este produto é um puzzle que quando montado forma um carrinho de brincar. Perfeito para crianças entre os 7-10 anos de modo a promover o desenvolvimento motor e cognitivo. Este brinquedo pode ser usado de forma individual ou em conjunto com outros brinquedos (ex: crazy tree, crazy house, bonecos, etc.).
 
 
 ![](dpiv-galeria-crazytown/produtos/Eva/attachments/PrancharesumoEva.jpeg)
