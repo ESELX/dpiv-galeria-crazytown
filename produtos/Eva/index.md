@@ -20,7 +20,7 @@ student_number: "2024270"
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+-->![](produtos/Eva/attachments/hero.jpg)
 
 > Um carrinho que as próprias crianças conseguem montar e desmontar o quanto quiserem para brincar.
 
@@ -50,9 +50,8 @@ Um carrinho puzzle de montagem simples e fácil para crianças entre os 7-10 ano
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
+![](crazycar.png)
+![](produtos/Eva/attachments/hero.jpg)
 
 ---
 

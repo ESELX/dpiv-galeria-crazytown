@@ -53,20 +53,22 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Desenhos manuais, 
 pranchas A3 de síntese, 
 exploração de variantes.
-
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
+![](esboço3.png)
+![697](esboço2.jpeg)
+![](esboço1.png)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
+![](esboço1.png)
+![](moodboard.png)
 
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
+![](descapotavel.jpg)
+![](brinquedoref.jpg)
 
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
 
 ## 9. Outros Elementos
 
