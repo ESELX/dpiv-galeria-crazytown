@@ -22,17 +22,17 @@ Página explicativa do contexto, em concordância com a apresentação produzida
 
 ### Resumo (PT)
 
-Para este projeto de design IV optamos por criar brinquedos que se encaixassem todos no mesmo mundo, para isso criámos no Autodesk Fusion 3 brinquedos para a marca Nestor. A marca Nestor tem como missão juntar a criatividade e a brincadeira apartir de brinquedos de madeira planeados para serem simples, e de facil utilização por crianças de cerca de 7-10 anos. 
-Todos os brinquedos foram pensados para que funcionassem à base de encaixes simples e formas mais orgânicas. Isto, não só para por questões de segurança, mas também para serem visualmente mais limpas.
+Para este projeto de design IV optamos por criar brinquedos que se encaixassem todos no mesmo mundo, para isso criámos no Autodesk Fusion 3 brinquedos para a marca Nestor. Esta marca tem como missão juntar a criatividade e a brincadeira a partir de brinquedos de madeira planeados para serem simples, e de fácil utilização por crianças de cerca de 7-10 anos.  
+Todos os brinquedos foram pensados para que funcionassem à base de encaixes simples e formas mais orgânicas. Isto, não só para por questões de segurança, mas também para serem visualmente mais limpas. Na criação de cada brinquedo tivemos atenção a modularidade e aos encaixes que permitem uma construção livre, objetos que combinam e que se unem com peças que estimulam a criatividade e por fim atenção aos mecanismos e princípios construtivos que permitem a longevidade.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
 
 ### Abstract (EN)
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+For this Design IV project, we chose to create toys that all belong to the same world. To achieve this, we designed a series of toys for the Nestor brand using Autodesk Fusion 3.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Nestor’s mission is to combine creativity and play through wooden toys that are designed to be simple and easy to use for children aged approximately 7 to 10 years old.
 
+All of the toys were conceived to function through simple interlocking systems and more organic shapes. This approach was adopted not only for safety reasons but also to create a cleaner visual appearance. During the development of each toy, special attention was given to modularity and connection systems that allow for open-ended construction. The toys were designed as objects that can be combined and connected with pieces that stimulate creativity. Finally, careful consideration was given to the mechanisms and construction principles that contribute to the toys’ durability and longevity.
 ## 2. Referências Coletivas
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
