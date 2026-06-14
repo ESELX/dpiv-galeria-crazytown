@@ -1,20 +1,20 @@
 ---
-title: Nome do Produto
+title: Crazy House
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/NestorMockupx.jpg
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_title: Crazy House
+hero_subtitle: Leonor Dias· 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Leonor Dias
+student_number: "2024270"
 ---
 
-# Nome do Produto
+# Crazy House
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
