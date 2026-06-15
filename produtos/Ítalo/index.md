@@ -3,7 +3,7 @@ title: Crazy Tree
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/crazytree.png
+hero_image: attachments/CrazyTreefundo.png
 hero_title: Crazy Tree
 hero_subtitle: Ítalo · 2025-26
 hero_height: 80vh
@@ -22,16 +22,19 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> **“Constroi o mundo através da imaginação”**
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+Desenvolvida para crianças da faixa etária dos 6 aos 10 anos, a Crazy Tree é um brinquedo de madeira, voltado para esta fase da infância onde as crianças estão a em uma transição fundamental onde apreciam melhor jogos e brincadeiras que promovam uma atividade imaginativa mais complexa. 
+E o meu objetivo com este brinquedo é poder criar um espaço amplo e interativo que possa promover a imaginário das crianças através da relação das peças.
 
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/Crazytreemood.png)
+Crazy Tree é constituído por várias peças, no entanto tem como foco principal uma peça composta em formato de árvore onde a maior parte da sua função, a “brincadeira”, se desenvolve.
+
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/treerender.jpeg)
 
 ## Enquadramento
 
@@ -50,7 +53,7 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
-![162]([https://drive.google.com/file/d/1saj6_BJ4P7Bj5TqEySpSJVuUHK9JBn37/view?usp=drive_link](https://drive.google.com/file/d/1UH6Hjidm2e5qMPZw6mWtY3FIADKghtbs/view?usp=share_link))
+![162]([https://drive.google.com/file/d/1saj6_BJ4P7Bj5TqEySpSJVuUHK9JBn37/view?usp=drive_link](https://drive.google.com/file/d/1UH6Hjidm2e5qMPZw6mWtY3FIADKghtbs/view?usp=share_link)
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.

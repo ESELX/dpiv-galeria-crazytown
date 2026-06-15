@@ -15,9 +15,9 @@ group_name: ""
 group_number: ""
 ---
 
-# Nestor 
+# Crazy Town
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> Nós somos o grupo Crazy Town e procuramos através dos nossos brinquedos construir universos que estão para além do que se pode ver ou tocar.
 
 ## Elementos do Grupo
 
@@ -63,7 +63,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Leonor</p>
   </a>  
   <a class="gallery-card" href="produtos/Ítalo/">
-    <img src="produtos/Ítalo/attachments/crazytree.png" alt="" />
+    <img src="produtos/Ítalo/attachments/crazyTreefundo.png" alt="" />
     <h3>Crazy Tree</h3>
     <p>Ítalo</p>
   </a> 
