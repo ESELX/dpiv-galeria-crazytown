@@ -63,7 +63,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <p>Leonor</p>
   </a>  
   <a class="gallery-card" href="produtos/Ítalo/">
-    <img src="produtos/Ítalo/attachments/crazyTreefundo.png" alt="" />
+    <img src="produtos/Ítalo/attachments/CrazyTreefundo.png" alt="" />
     <h3>Crazy Tree</h3>
     <p>Ítalo</p>
   </a> 
