@@ -41,13 +41,16 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+-Briquedo feito com madeira de pinho para ser cortado em CNC.
+
+- Modelo 3D: [<!-- embed Fusion ou link a360.co -->]((https://a360.co/4et3JkV))
 - Ficheiros: `attachments/`
 
 ## Função
 
 Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
+![](https://drive.google.com/file/d/1saj6_BJ4P7Bj5TqEySpSJVuUHK9JBn37/view?usp=drive_link)
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
