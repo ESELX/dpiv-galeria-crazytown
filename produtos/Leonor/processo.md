@@ -35,8 +35,8 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 Embed do Fusion (visualização do modelo paramétrico).
 
 
-https://a360.co/4nqYoPa
-![](Projeto_Nestor_versão_Finalizada_2026-Jun-02_02-20-57AM-000_CustomizedView22769914697_png_alpha.png)
+https://a360.co/3SdzOWs
+
 ## 5. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
