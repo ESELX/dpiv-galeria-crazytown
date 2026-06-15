@@ -32,8 +32,6 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 ## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
-
 
 https://a360.co/3SdzOWs
 
@@ -42,27 +40,29 @@ https://a360.co/3SdzOWs
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Pequeno teste feito em Kapa-Line para explorar os encaixes e as suas dimensões.
 
-
+![](attachments/teste1encaixeskapaline.jpg)
 ![](attachments/teste2kapaline.jpg)
 ![](attachments/testekapaline1.jpg)
-![](attachments/teste1encaixeskapaline.jpg)
+
 
 
 ## 6. Esboços e Pranchas-Resumo
 
 Nestes esboços e Pranchas-Resumo comecei a esboçar e idealizar as casas, formatos e dimensões, para além disso comecei a tentar perceber como é que poderia ter os encaixes de modo a que o módulo da pera conseguisse encaixar na maça. Para além disso, comecei também a pensar como iria adicionar o chão/piso às paredes da casa. Debati também esta ideia em aula com o professor para obter ajuda nos encaixes. Por fim, escolhi duas  frutas que fossem as mais fáceis de serem reconhecidas por crianças e comecei a explorar as suas dimensões.
 
-![](attachments/esbocos.jpg)
 ![](attachments/esboçosexploracao.png)
+![](attachments/exploracao2.png)
+![](attachments/esbocos.jpg)
+
 ![](attachments/exploracaodeencaixes.jpg)
 ![](attachments/basedapera.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 Após criar o moodboard, comecei a desenhar oque mais gostei das referências que neste caso, foi o formato das frutas e como elas poderiam ser casinhas modelares. Gostei também da forma como assim poderiam tornar-se uma memória mais marcante para as crianças por ser algo fora do comum.
-
-![](attachments/esboçosexploracao.png)
 ![](attachments/primeiraideiapng.png)
+![](attachments/esboçosexploracao.png)
+
 
 ### 7.2. Objetos de referencia
 

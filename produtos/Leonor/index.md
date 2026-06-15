@@ -30,10 +30,10 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 ## Conceito
 
 Quis criar uma casa em formato de fruta, pois lembrei-me da paixão de muitas crianças com a série da Moranguinho e como uma casa em formato de fruta parece tão mais apelativa do que qualquer outra casa. Após explorar várias frutas escolhi duas principais, com a possibilidade de futuramente fazer ainda mais frutas, assim cria-se a oportunidade de juntar várias frutas alimentando a imaginação das crianças. Para além disso, devido ao tamanho e o tema, cria a possibelidade de se juntar aos restantes brinquedos e criar uma "Crazy town".
-![](attachments/montagem3.png)
-![686](attachments/montagem1.png)
-![](attachments/montagem2.png)
-![](attachments/duasversoesjuntas.png)
+
+![](attachments/moodboardinspo.jpg)
+
+
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
@@ -43,7 +43,7 @@ Para manter o meu brinquedo dentro do contexto de grupo, optei como anteriorment
 
 Utilizamos como base para estes brinquedos madeira de Pinho, este brinquedo foi criado para poder ser cortado tanto na CNC como a Laser,criado no fussion.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: https://a360.co/3SdzOWs
 - Ficheiros: `attachments/`
 
 ## Função
