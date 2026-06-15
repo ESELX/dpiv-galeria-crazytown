@@ -44,30 +44,32 @@ https://a360.co/4nqYoPa
 
 ## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Fiz esta maquete exploratória em cartão para testar os encaixes que queria usar e também para explorar a escala do brinquedo e a sua forma.
 
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
+![](attachments/maquete2.jpg)
+![](attachments/maquete1.jpg)
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/esboço3.png)
-![697](dpiv-galeria-crazytown/produtos/Eva/attachments/esboço2.jpeg)
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/esboço1.png)
+Depois de explorar as formas que iria usar e optar pelo descapotável comecei a desenhar como o carro seria em 3D. Em seguida pensei como as peças se encaixariam, onde e como seriam os encaixes e na escala do brinquedo na mão de uma criança.
+![](attachments/esboço3.png)
+![](attachments/esboço2.jpeg)
+![](attachments/esboço1.png)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/esboço1.png)
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/moodboard.png)
+
+Tendo em conta que queria fazer um carro descapotável o meu moodboard transmite isso, mas mesmo assim decidi explorar mais algumas formas que este carro poderia ter e acabei por seguir mesmo a alternativa inicial. 
+
+![](attachments/esboço1.png)
+![](attachments/moodboard.png)
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/descapotavel.jpg)
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/brinquedoref.jpg)
+Logo desde o incio deste trabalho quis que o meu carro fosse um descapotável pela sua forma mais organica e fluída, tendo isto em conta fui pesquisar alguns carros desse genero e também alguns brinquedos.
+![](attachments/descapotavel.jpg)
+![](attachments/brinquedoref.jpg)
 
 
 ## 9. Outros Elementos

@@ -29,7 +29,8 @@ student_number: "2024270"
 
 Este brinquedo foi pensado de forma a promover o desenvolvimento motor e cognitivo. Um carrinho feito para ser montado e desmontado as vees que as crianças quiserem com encaixes simples e formas suaves e, também, peças grandes tornando este brinquedo numa ótima escolha para crianças entre os 7-10 anos. 
 Este brinquedo pode ser usado de forma individual ou em conjunto com outros brinquedos (ex: crazy tree, crazy house, bonecos, etc.).
-
+![](attachments/crazycar.png)
+![](attachments/carrinhopeças.png)
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
@@ -50,6 +51,7 @@ Um carrinho puzzle de montagem simples e fácil para crianças entre os 7-10 ano
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
+![](attachments/carrinhopeças.png)
 ![](produtos/Eva/attachments/crazycar.png)
 ![](produtos/Eva/attachments/hero.jpg)
 
