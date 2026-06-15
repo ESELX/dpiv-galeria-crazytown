@@ -27,14 +27,14 @@ student_number: "2024270"
 
 ## Conceito
 
-Este produto é um puzzle que quando montado forma um carrinho de brincar. Perfeito para crianças entre os 7-10 anos de modo a promover o desenvolvimento motor e cognitivo. Este brinquedo pode ser usado de forma individual ou em conjunto com outros brinquedos (ex: crazy tree, crazy house, bonecos, etc.).
-
-
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/PrancharesumoEva.jpeg)
+Este brinquedo foi pensado de forma a promover o desenvolvimento motor e cognitivo. Um carrinho feito para ser montado e desmontado as vees que as crianças quiserem com encaixes simples e formas suaves e, também, peças grandes tornando este brinquedo numa ótima escolha para crianças entre os 7-10 anos. 
+Este brinquedo pode ser usado de forma individual ou em conjunto com outros brinquedos (ex: crazy tree, crazy house, bonecos, etc.).
 
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+
+Tendo em conta os brinquedos usados como inspiração para este projeto e o conceito geral, este carrinho foi desenhado de forma a ter uma montagem simples e fácil com formas suaves, orgânicas e peças grandes, sendo um brinquedo adequado e seguro para crianças mais pequenas. Este brinquedo foi pensado e criado de forma a fazer parte de um universo com outros brinquedos mas também sendo possivel brincar de forma individual.
 
 ## Tecnologia
 
