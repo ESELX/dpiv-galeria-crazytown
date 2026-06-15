@@ -63,7 +63,7 @@ Inventário de precedentes, brinquedos análogos, referências históricas.![339
 ![](dpiv-galeria-crazytown/produtos/Leonor/attachments/referência.png)
 ![334](dpiv-galeria-crazytown/produtos/Leonor/attachments/referenciadecasa.jpg)
 ## 9. Outros Elementos
-
+![](brinquedoref.jpg)
 Motivação pós pesquisa para o trabalho.
 Vivemos numa época em que a maior parte dos brinquedos são fabricados em plástico, e que por sua vez, mesmo os de maior qualidade acabam por ter um aspecto mais impessoal, e até através da utilização e passagem do tempo adquirirem tons mais amarelados e até mesmo ser notável a degradação desse mesmo material tornando-se peganhento. O plástico por si só também pode ser visto como um símbolo da modernidade, do século XX e aliado às novas tecnologias digitais com os seus ecrãs. Com isto em conta a escolha da madeira surge como uma tentativa de um regresso às origens e às brincadeiras de faz de conta mais antigas, à qualidade dos materiais e duração e longevidade dos mesmos, como os que ainda restam de pais ou irmãos mais velhos comprados nos anos 80 e que perduram até aos nossos dias.
 
