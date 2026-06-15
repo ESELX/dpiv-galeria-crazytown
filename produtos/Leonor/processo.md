@@ -34,6 +34,7 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 Embed do Fusion (visualização do modelo paramétrico).
 
+
 https://a360.co/4nqYoPa
 ![](Projeto_Nestor_versão_Finalizada_2026-Jun-02_02-20-57AM-000_CustomizedView22769914697_png_alpha.png)
 ## 5. Outros Modelos
@@ -41,33 +42,35 @@ https://a360.co/4nqYoPa
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 Pequeno teste feito em Kapa-Line para explorar os encaixes e as suas dimensões.
 
-![](attachments/Testekapaline.jpg)
 
-
-
+![](attachments/teste2kapaline.jpg)
+![](attachments/testekapaline1.jpg)
+![](attachments/teste1encaixeskapaline.jpg)
 
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+Nestes esboços e Pranchas-Resumo comecei a esboçar e idealizar as casas, formatos e dimensões, para além disso comecei a tentar perceber como é que poderia ter os encaixes de modo a que o módulo da pera conseguisse encaixar na maça. Para além disso, comecei também a pensar como iria adicionar o chão/piso às paredes da casa. Debati também esta ideia em aula com o professor para obter ajuda nos encaixes. Por fim, escolhi duas  frutas que fossem as mais fáceis de serem reconhecidas por crianças e comecei a explorar as suas dimensões.
+
 ![](attachments/esbocos.jpg)
-![](attachments/desenhoinicial.jpg)
-
-
-
+![](attachments/esboçosexploracao.png)
+![](attachments/exploracaodeencaixes.jpg)
+![](attachments/basedapera.jpg)
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/esboçosexploracao.png)
+Após criar o moodboard, comecei a desenhar oque mais gostei das referências que neste caso, foi o formato das frutas e como elas poderiam ser casinhas modelares. Gostei também da forma como assim poderiam tornar-se uma memória mais marcante para as crianças por ser algo fora do comum.
 
+![](attachments/esboçosexploracao.png)
+![](attachments/primeiraideiapng.png)
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.![339](dpiv-galeria-crazytown/produtos/Leonor/attachments/referênciadecasa2.jpg)
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/referência.png)
-![334](dpiv-galeria-crazytown/produtos/Leonor/attachments/referenciadecasa.jpg)
+Inventário de precedentes, brinquedos análogos, referências históricas.
+Gostei de todas estas referências tanto para a questão mais técnica de encaixes, como é o caso dos Tazoos que serviram como base par pensar nos encaixes, como as casinhas da moranguinho e a referência de uma paragem de autocarro, por ambas serem coisas que ficam na memória e são facilmente relembraveis.
+![](attachments/referencia.png)
+![](attachments/referenciadecasa.jpg)
+![](attachments/referenciadecasa2.jpg)
 ## 9. Outros Elementos
 
 Motivação pós pesquisa para o trabalho.

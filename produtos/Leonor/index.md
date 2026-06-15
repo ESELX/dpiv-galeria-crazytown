@@ -30,15 +30,18 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 ## Conceito
 
 Quis criar uma casa em formato de fruta, pois lembrei-me da paixão de muitas crianças com a série da Moranguinho e como uma casa em formato de fruta parece tão mais apelativa do que qualquer outra casa. Após explorar várias frutas escolhi duas principais, com a possibilidade de futuramente fazer ainda mais frutas, assim cria-se a oportunidade de juntar várias frutas alimentando a imaginação das crianças. Para além disso, devido ao tamanho e o tema, cria a possibelidade de se juntar aos restantes brinquedos e criar uma "Crazy town".
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/duasversoesjuntas.png)
-
+![](attachments/montagem3.png)
+![686](attachments/montagem1.png)
+![](attachments/montagem2.png)
+![](attachments/duasversoesjuntas.png)
 ## Enquadramento
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+Para manter o meu brinquedo dentro do contexto de grupo, optei como anteriormente mencionado, criar algo que encaixasse dentro desta cidade. Por isso mesmo, criei uma casa, inicialmente fui para algo mais simples mas depois de decidirmos que queriamos algo mais voltado para a natureza com formas um bocado mais exageradas comecei a procurar referencias que se encaixasse nesse estilo. Foi depois dessa pesquisa e de encontrar referências como as casinhas do mundo da Moranguinho que comecei a idealizar e desenhar como poderia trazer uma versão menos ornamental e distrativa das casinhas.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+Utilizamos como base para estes brinquedos madeira de Pinho, este brinquedo foi criado para poder ser cortado tanto na CNC como a Laser,criado no fussion.
 
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
@@ -50,10 +53,12 @@ Casa de bonecas, para crianças entre 7-10 anos, pensada para estimular a criati
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/mockupcrazyhouse.png)
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/montagem1.png)
-![](dpiv-galeria-crazytown/produtos/Leonor/attachments/montagem2.png)![](dpiv-galeria-crazytown/produtos/Leonor/attachments/montagem3.png)---
-
+![](attachments/mockupcrazyhouse.png)
+![](attachments/mockup1.png)
+![](attachments/montagem1.png)
+![](attachments/montagem2.png)
+![](attachments/duasversoesjuntas.png)
+![](attachments/montagem3.png)
 ## Processo
 
 O percurso completo de iterações, modelos e pesquisa está em [processo.md](dpiv-galeria-crazytown/produtos/Leonor/processo.md), organizado do **mais recente** para o **mais antigo**.
