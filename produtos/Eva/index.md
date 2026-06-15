@@ -50,7 +50,7 @@ Um carrinho puzzle de montagem simples e fácil para crianças entre os 7-10 ano
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/crazycar.png)
+![](produtos/Eva/attachments/crazycar.png)
 ![](produtos/Eva/attachments/hero.jpg)
 
 ---
