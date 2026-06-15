@@ -43,14 +43,14 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 -Briquedo feito com madeira de pinho para ser cortado em CNC.
 
-- Modelo 3D: [<!-- embed Fusion ou link a360.co -->]((https://a360.co/4et3JkV))
+- Modelo 3D: https://a360.co/4et3JkV
 - Ficheiros: `attachments/`
 
 ## Função
 
 Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
-![](https://drive.google.com/file/d/1saj6_BJ4P7Bj5TqEySpSJVuUHK9JBn37/view?usp=drive_link)
+![162]([https://drive.google.com/file/d/1saj6_BJ4P7Bj5TqEySpSJVuUHK9JBn37/view?usp=drive_link](https://drive.google.com/file/d/1UH6Hjidm2e5qMPZw6mWtY3FIADKghtbs/view?usp=share_link))
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
