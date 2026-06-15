@@ -39,9 +39,9 @@ All of the toys were conceived to function through simple interlocking systems a
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![Objeto 1](dpiv-galeria-crazytown/attachments/placeholder.png)
+![](attachments/descapotavel.jpg)
 
-- **Objeto 1** — origem / autoria / razão da escolha
+- **Objeto 1** — Cadillac Eldorado Biarritz de 1959-Escolhi este carro para redesenhar como um brinquedo pela sua forma mais organica, fluída e também cativante
 - **Objeto 2** — ...
 
 ### 2.2. Moodboard
