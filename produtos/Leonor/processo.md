@@ -39,29 +39,29 @@ https://a360.co/4nqYoPa
 ## 5. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-Pequeno teste feito em Kapa-Line para explorar os encaixes e as suas dimensões.![](testekapaline.jpg)![](testekapaline1.jpg)
-![](testekapaline2.jpg)
+Pequeno teste feito em Kapa-Line para explorar os encaixes e as suas dimensões.![](dpiv-galeria-crazytown/produtos/Leonor/attachments/testekapaline.jpg)![](dpiv-galeria-crazytown/produtos/Leonor/attachments/testekapaline1.jpg)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/testekapaline2.jpg)
 
 ## 6. Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
-exploração de variantes.![](exploracaodeencaixes.jpg)
-![](esboçosexploracao.png)
-![](esbocos.jpg)
-![](desenhoinicial.jpg)
+exploração de variantes.![](dpiv-galeria-crazytown/produtos/Leonor/attachments/exploracaodeencaixes.jpg)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/esboçosexploracao.png)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/esbocos.jpg)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/desenhoinicial.jpg)
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-![](esboçosexploracao.png)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/esboçosexploracao.png)
 
 
 ### 7.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.![339](referênciadecasa2.jpg)
-![](referência.png)
-![334](referenciadecasa.jpg)
+Inventário de precedentes, brinquedos análogos, referências históricas.![339](dpiv-galeria-crazytown/produtos/Leonor/attachments/referênciadecasa2.jpg)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/referência.png)
+![334](dpiv-galeria-crazytown/produtos/Leonor/attachments/referenciadecasa.jpg)
 ## 9. Outros Elementos
 
 Motivação pós pesquisa para o trabalho.

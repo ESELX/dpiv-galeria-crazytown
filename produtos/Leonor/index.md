@@ -30,7 +30,7 @@ Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 ## Conceito
 
 Quis criar uma casa em formato de fruta, pois lembrei-me da paixão de muitas crianças com a série da Moranguinho e como uma casa em formato de fruta parece tão mais apelativa do que qualquer outra casa. Após explorar várias frutas escolhi duas principais, com a possibilidade de futuramente fazer ainda mais frutas, assim cria-se a oportunidade de juntar várias frutas alimentando a imaginação das crianças. Para além disso, devido ao tamanho e o tema, cria a possibelidade de se juntar aos restantes brinquedos e criar uma "Crazy town".
-![](duasversoesjuntas.png)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/duasversoesjuntas.png)
 
 ## Enquadramento
 
@@ -50,9 +50,9 @@ Casa de bonecas, para crianças entre 7-10 anos, pensada para estimular a criati
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
-![](mockupcrazyhouse.png)
-![](montagem1.png)
-![](montagem2.png)![](montagem3.png)---
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/mockupcrazyhouse.png)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/montagem1.png)
+![](dpiv-galeria-crazytown/produtos/Leonor/attachments/montagem2.png)![](dpiv-galeria-crazytown/produtos/Leonor/attachments/montagem3.png)---
 
 ## Processo
 
