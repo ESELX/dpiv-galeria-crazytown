@@ -39,14 +39,14 @@ All of the toys were conceived to function through simple interlocking systems a
 
 Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
-![](attachments/descapotavel.jpg)
+![697](attachments/descapotavel.jpg)
+![](attachments/brinquedoreferencia.png)
 
 - **Objeto 1** — Cadillac Eldorado Biarritz de 1959-Escolhi este carro para redesenhar como um brinquedo pela sua forma mais organica, fluída e também cativante
-- **Objeto 2** — ...
-
+- **Objeto 2** — Molly- Movél feito em cartão criado pela marca -Tsuchinoko, gostei da forma como as várias camadas e planos foram utilizados para criar a forma geral desta estante e usei como base para criar a forma arredondada das casas.
 ### 2.2. Moodboard
 
-
+Moodboard de referências que utilizamos, desde livros infantis a brinquedos, desenhos animados e estruturas.
 
 ![](attachments/moodboardgrupo.jpg)
 
