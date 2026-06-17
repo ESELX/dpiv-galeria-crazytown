@@ -13,7 +13,7 @@ published: true
 ---
 
 # Contexto de Design
-
+![](brinquedostodosjuntos.png)
 Página explicativa do contexto, em concordância com a apresentação produzida em grupo. Componente de **grupo**.
 
 ## 1. Resumo / Abstract

@@ -47,6 +47,7 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
      e tem uma sub-página produtos/<numero>-<nome>/processo.md -->
 
 <!-- markdownlint-disable MD033 -->
+
 <div class="gallery-grid">
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
