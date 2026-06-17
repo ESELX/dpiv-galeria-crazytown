@@ -46,7 +46,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ### 2.2. Moodboard
 
-Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](dpiv-galeria-crazytown/attachments/placeholder.png)
+
+![](attachments/moodboardgrupo.jpg)
 
