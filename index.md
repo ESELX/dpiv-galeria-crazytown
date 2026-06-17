@@ -30,10 +30,9 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](dpiv-galeria-crazytown/attachments/placeholder.png)
+![](attachments/obsidianfundo.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-(devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 

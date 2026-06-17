@@ -68,6 +68,7 @@ Após criar o moodboard, comecei a desenhar oque mais gostei das referências qu
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 Gostei de todas estas referências tanto para a questão mais técnica de encaixes, como é o caso dos Tazoos que serviram como base par pensar nos encaixes, como as casinhas da moranguinho e a referência de uma paragem de autocarro, por ambas serem coisas que ficam na memória e são facilmente relembraveis.
+![](attachments/brinquedoreferencia.png)
 ![](attachments/referencia.png)
 ![](attachments/referenciadecasa.jpg)
 ![](attachments/referenciadecasa2.jpg)
