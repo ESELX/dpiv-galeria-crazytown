@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/Obsidianfundo.png
 hero_title: Crazy Town
-hero_subtitle: A construir crazy towns pelo mundo afora
+hero_subtitle: Construir a brincar
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
@@ -31,7 +31,8 @@ group_number: ""
 
 ## Contexto de Design
 ![](attachments/obsidianfundo.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+![](attachments/brinquedostodosjuntos.png)
+
 
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
