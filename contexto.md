@@ -43,6 +43,6 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 ### 2.2. Moodboard
 
 Moodboard de referências que utilizamos, desde livros infantis a brinquedos, desenhos animados e estruturas.
-
 ![](attachments/moodboardgrupo.jpg)
+
 
