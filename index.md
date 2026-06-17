@@ -3,7 +3,7 @@ title: CrazyTown
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/Obsidianfundo.png
+hero_image: ../attachments/obsidianfundo.jpg
 hero_title: Crazy Town
 hero_subtitle: Construir a brincar
 hero_height: 100vh
@@ -30,15 +30,11 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/obsidianfundo.png)
-![](attachments/brinquedostodosjuntos.png)
-
-
 
 Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
 
 [Ver contexto completo →](contexto.md)
-![](NestorMockupx.png)
+
 ---
 
 ## Galeria de Produtos
