@@ -3,7 +3,7 @@ title: CrazyTown
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.png
+hero_image: ../attachments/Obsidianfundo.png
 hero_title: Crazy Town
 hero_subtitle: Construir a brincar
 hero_height: 100vh
