@@ -18,38 +18,18 @@ published: true
 
 ## Esboços
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
+![Protótipo final](attachments/esbocos.png)
 
-![Protótipo final](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
+## Moodboard Individual
 
+![](attachments/moodtree.png)
+## Desenhos digitais (esboços e finais)
+
+![](attachments/primeiros.png)
+![](attachments/Processo_CrazyTree.png)
 ## Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
-https://a360.co/4nqYoPa
+- Modelo 3D: https://a360.co/4et3JkV
 
-
-Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
-
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-
-## 7. Pesquisa
-
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
-
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-
-### 7.2. Objetos de referencia
-
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
