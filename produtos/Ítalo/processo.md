@@ -16,39 +16,21 @@ published: true
 
 > Organizado do **mais recente** para o **mais antigo**.
 
-## 1. Esboços
+## Esboços
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![Protótipo final](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
 ![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
 
-## 2. Processo de Prototipagem
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-
-## 4. Modelos 3D
+## Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4nqYoPa
 
-## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
-
-## 6. Esboços e Pranchas-Resumo
+Esboços e Pranchas-Resumo
 
 Desenhos manuais, 
 pranchas A3 de síntese, 
