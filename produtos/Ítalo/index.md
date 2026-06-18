@@ -51,14 +51,14 @@ O universo Crazy Town é composto por vários brinquedos que compõem diferentes
 O projeto foi desenhado a partir do software de design gráfico Adobe Illustrator, onde foram definidas as principais linhas e medidas iniciais do projeto depois foi traduzido para o software de modelação tridimensional Autodesk Fusion 360, onde passa pelo processo de parametrização e resulta nos ficheiros técnicos necessários para a fabricação que por sua vez é feita através da tecnologia CNC (Controlo Numérico Computorizado) que permite dar, com precisão, corpo às linhas e aos encaixes do desenho paramétrico.
 
 - Desenhos:
-![](Processo_CrazyTree.png)
+![](attachments/Processo_CrazyTree.png)
 - Modelo 3D: https://a360.co/4et3JkV
 
 ## Função
 
 A Crazy Tree é um brinquedo de cenário composto por uma árvore montada, 6 peças-personagens e 1 escada. A sua função está centrada na interação das peças-personagens com a árvore que tem vários andares e que lembra bastante uma casa na árvore, esta dinâmica promove a criação de enredos e narrativas como também poder ser utilizada para interpretar várias histórias e contos, ou seja, a brincadeira não tem limites!
 
-![](brincadeira.png)
+![](attachments/brincadeira.png)
 
 A montagem da Crazy Tree é feita através de encaixes simples de pressão que está acessível a qualquer criança da faixa etária indicada.
 
@@ -74,8 +74,8 @@ O projeto foi desenvolvido em conformidade com os princípios gerais de seguran�
 
 
 ![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/treerender.jpeg)
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/nestores.png)
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/animais.png)
+![](attachments/nestores.png)
+![](attachments/animais.png)
 ![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/brincadeira.png)
 ![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/ImagemAICrazyTree.png)
 
