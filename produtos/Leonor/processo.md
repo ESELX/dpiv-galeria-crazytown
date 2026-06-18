@@ -46,7 +46,7 @@ Pequeno teste feito em Kapa-Line para explorar os encaixes e as suas dimensões.
 
 ## 6. Esboços e Pranchas-Resumo
 
-Nestes esboços e Pranchas-Resumo comecei a esboçar e idealizar as casas, formatos e dimensões, para além disso comecei a tentar perceber como é que poderia ter os encaixes de modo a que o módulo da pera conseguisse encaixar na maça. Para além disso, comecei também a pensar como iria adicionar o chão/piso às paredes da casa. Debati também esta ideia em aula com o professor para obter ajuda nos encaixes. Por fim, escolhi duas  frutas que fossem as mais fáceis de serem reconhecidas por crianças e comecei a explorar as suas dimensões.
+Nestes esboços e Pranchas-Resumo comecei a esboçar e idealizar as casas, formatos e dimensões, para além disso comecei a tentar perceber como é que poderia ter os encaixes de modo a que o módulo da pera conseguisse encaixar na maça. Para além disso, comecei também a pensar como iria adicionar o chão/piso às paredes da casa. Debati também esta ideia em aula com o professor para obter ajuda nos encaixes. Por fim, escolhi duas  frutas que fossem as mais fáceis de serem reconhecidas por crianças e comecei a explorar as suas dimensões. Inicialmente pensei em ter uma base para cada casa mas após explorar isso nos desenhos apercebi-me que iria estar a adicionar barulho visual às casas que não era necessário.
 
 ![](attachments/esboçosexploracao.png)
 ![](attachments/exploracao2.png)
