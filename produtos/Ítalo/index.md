@@ -40,7 +40,7 @@ Todas as escolhas foram feitas para que se sintam familiarizadas com as suas for
 
 A Crazy Tree faz parte da coleção de brinquedos Crazy Town desenvolvida a partir do projeto Nestor.
 
-![](attachments/Obsidianfundo.png)
+![](produtos/Ítalo/attachments/Obsidianfundo.png)
 
 O universo Crazy Town é composto por vários brinquedos que compõem diferentes cenários lúdicos, entre eles estão casas (Crazy House) e carros (Crazy car). A Crazy Tree por sua vez acrescenta o cenário da Natureza ao escolher redesenhar a árvore como símbolo central.
 

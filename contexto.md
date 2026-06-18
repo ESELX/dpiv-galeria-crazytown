@@ -3,7 +3,7 @@ title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: ../attachments/Obsidianfundo.png
+hero_image: ../attachments/hero.png
 hero_title: Contexto de Design
 hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
