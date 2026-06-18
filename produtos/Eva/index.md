@@ -3,7 +3,7 @@ title: Crazy Car
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: ../attachments/NestorMockupx.jpg
+hero_image: ../attachments/hero.jpg
 hero_title: Crazy Car
 hero_subtitle: Eva Sousa · 2025-26
 hero_height: 80vh
@@ -33,8 +33,6 @@ Este brinquedo pode ser usado de forma individual ou em conjunto com outros brin
 ![](attachments/carrinhopeças.png)
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
-
 Tendo em conta os brinquedos usados como inspiração para este projeto e o conceito geral, este carrinho foi desenhado de forma a ter uma montagem simples e fácil com formas suaves, orgânicas e peças grandes, sendo um brinquedo adequado e seguro para crianças mais pequenas. Este brinquedo foi pensado e criado de forma a fazer parte de um universo com outros brinquedos mas também sendo possivel brincar de forma individual.
 
 ## Tecnologia
@@ -50,7 +48,6 @@ Um carrinho puzzle de montagem simples e fácil para crianças entre os 7-10 ano
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 ![](attachments/carrinhopeças.png)
 ![](produtos/Eva/attachments/crazycar.png)
 ![](produtos/Eva/attachments/hero.jpg)

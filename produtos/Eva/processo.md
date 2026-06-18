@@ -14,27 +14,17 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
 Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
-
-![Protótipo final](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
 
 ## 2. Processo de Prototipagem
 
 Maquinação CNC, montagem, acabamentos pontuais. 
 
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
-
-
 ## 3. Protótipos Exploratórios
 
 Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](dpiv-galeria-crazytown/produtos/Eva/attachments/placeholder.png)
 
 ## 4. Modelos 3D
 
@@ -74,6 +64,5 @@ Logo desde o incio deste trabalho quis que o meu carro fosse um descapotável pe
 
 ## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
 
