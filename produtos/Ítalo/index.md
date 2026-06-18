@@ -48,12 +48,11 @@ O universo Crazy Town é composto por vários brinquedos que compõem diferentes
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+O projeto foi desenhado a partir do software de design gráfico Adobe Illustrator, onde foram definidas as principais linhas e medidas iniciais do projeto depois foi traduzido para o software de modelação tridimensional Autodesk Fusion 360, onde passa pelo processo de parametrização e resulta nos ficheiros técnicos necessários para a fabricação que por sua vez é feita através da tecnologia CNC (Controlo Numérico Computorizado) que permite dar, com precisão, corpo às linhas e aos encaixes do desenho paramétrico.
 
--Briquedo feito com madeira de pinho para ser cortado em CNC.
-
+- Desenhos:
+![](Processo_CrazyTree.png)
 - Modelo 3D: https://a360.co/4et3JkV
-- Ficheiros: `attachments/`
 
 ## Função
 
