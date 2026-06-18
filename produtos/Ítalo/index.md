@@ -22,23 +22,29 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> **“Constroi o mundo através da imaginação”**
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> **“Constrói um mundo através da imaginação”**
 
 ## Conceito
 
-Desenvolvida para crianças da faixa etária dos 6 aos 10 anos, a Crazy Tree é um brinquedo de madeira, voltado para esta fase da infância onde as crianças estão a em uma transição fundamental onde apreciam melhor jogos e brincadeiras que promovam uma atividade imaginativa mais complexa. 
-E o meu objetivo com este brinquedo é poder criar um espaço amplo e interativo que possa promover a imaginário das crianças através da relação das peças.
-
-Crazy Tree é constituído por várias peças, no entanto tem como foco principal uma peça composta em formato de árvore onde a maior parte da sua função, a “brincadeira”, se desenvolve.
+*A Crazy Tree é um brinquedo de cenário de madeira constituído por várias peças (uma árvore montada, 6 peças personagens e 1 escada), tendo como foco principal a peça central construída em formato de árvore. É neste espaço onde a maior parte da sua função, a brincadeira, se desenvolve.*
 
 ![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/treerender.jpeg)
 
+Esta ideia foi desenvolvida a pensar nas crianças da faixa etária dos 6 aos 10 anos. 
+É voltada para esta fase de transição fundamental da infância onde as crianças apreciam melhor jogos e brincadeiras que promovam uma atividade imaginativa complexa.
+
+O principal objetivo deste projeto é promover o desenvolvimento da criatividade, da imaginação e da colaboração de todas as crianças que brinquem com ele. 
+Todas as escolhas foram feitas para que se sintam familiarizadas com as suas formas e que encontrem nele um espaço seguro e rico para poderem explorar todas as suas capacidades, construir mundos e realidades partilhadas com outras crianças.
+
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+A Crazy Tree faz parte da coleção de brinquedos Crazy Town desenvolvida a partir do projeto Nestor.
+
+![](attachments/Obsidianfundo.png)
+
+O universo Crazy Town é composto por vários brinquedos que compõem diferentes cenários lúdicos, entre eles estão casas (Crazy House) e carros (Crazy car). A Crazy Tree por sua vez acrescenta o cenário da Natureza ao escolher redesenhar a árvore como símbolo central.
+
+**(ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
 
 ## Tecnologia
 
