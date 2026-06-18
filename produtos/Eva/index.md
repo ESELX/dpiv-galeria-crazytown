@@ -3,7 +3,7 @@ title: Crazy Car
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/NestorMockupx.jpg
+hero_image: ../attachments/NestorMockupx.jpg
 hero_title: Crazy Car
 hero_subtitle: Eva Sousa · 2025-26
 hero_height: 80vh
