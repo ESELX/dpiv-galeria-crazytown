@@ -59,11 +59,13 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 A Crazy Tree é um brinquedo de cenário composto por uma árvore montada, 6 peças-personagens e 1 escada. A sua função está centrada na interação das peças-personagens com a árvore que tem vários andares e que lembra bastante uma casa na árvore, esta dinâmica promove a criação de enredos e narrativas como também poder ser utilizada para interpretar várias histórias e contos, ou seja, a brincadeira não tem limites!
 
+![](brincadeira.png)
+
 A montagem da Crazy Tree é feita através de encaixes simples de pressão que está acessível a qualquer criança da faixa etária indicada.
 
 Segue o link para vizualizar a montagem:
 ![162]([https://drive.google.com/file/d/1saj6_BJ4P7Bj5TqEySpSJVuUHK9JBn37/view?usp=drive_link](https://drive.google.com/file/d/1UH6Hjidm2e5qMPZw6mWtY3FIADKghtbs/view?usp=share_link)  
-
+Teaser:
 ![](attachments/1.png)
 
 O projeto foi desenvolvido em conformidade com os princípios gerais de segurança estabelecidos pela Diretiva 2009/48/CE do Parlamento Europeu e do Concelho de 18/06/2009 relativa à segurança dos brinquedos.
@@ -71,10 +73,12 @@ O projeto foi desenvolvido em conformidade com os princípios gerais de seguran�
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/crazytree.png)
-![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/placeholder.png)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/treerender.jpeg)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/nestores.png)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/animais.png)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/brincadeira.png)
+![](dpiv-galeria-crazytown/produtos/Ítalo/attachments/ImagemAICrazyTree.png)
 
 ---
 
